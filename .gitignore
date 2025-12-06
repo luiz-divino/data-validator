@@ -1,0 +1,11 @@
+# Arquivos de Dependências
+/node_modules
+
+# Arquivos de Compilação
+/dist
+# ou
+/build
+
+# Arquivos de Configuração e Log
+.env
+*.log
